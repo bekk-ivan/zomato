@@ -7,22 +7,22 @@ Goal:
 
 Data taken from the website https://www.zomato.com/india
 
-Data Dictionary
-url = the url of the restaurant in the zomato website
-address = the address of the restaurant in Bengalore
-name = the name of the restaurant
-online_order = whether online ordering is available for this restaurant or not
-book_table = option to book a table available or not
-rate = the overall rating of the restaurant out of 5
-votes = total number of ratings for the restaurant as of the above mentioned date
-phone = the phone number of the restaurant
-location = the area in which the restaurant is located
-rest_type = restaurant type
-dish_liked = dishes people liked at the restaurant
-cuisines = food styles, separated by comma
-approx_cost(for two people) = the approximate cost for a meal for two people
-reviews_list = list of tuples containing reviews for the restaurant, each tuple consists of two values,
-rating and review by the customer
-menu_item = a list of menus available in the restaurant
-listed_in(type) = type of meal
-listed_in(city) = the area in which the restaurant is listed
+Data Dictionary <br >
+url = the url of the restaurant in the zomato website <br >
+address = the address of the restaurant in Bengalore <br >
+name = the name of the restaurant <br >
+online_order = whether online ordering is available for this restaurant or not <br >
+book_table = option to book a table available or not <br >
+rate = the overall rating of the restaurant out of 5 <br >
+votes = total number of ratings for the restaurant as of the above mentioned date <br >
+phone = the phone number of the restaurant <br >
+location = the area in which the restaurant is located <br >
+rest_type = restaurant type <br >
+dish_liked = dishes people liked at the restaurant <br >
+cuisines = food styles, separated by comma <br >
+approx_cost(for two people) = the approximate cost for a meal for two people <br >
+reviews_list = list of tuples containing reviews for the restaurant, each tuple consists of two values,<br >
+rating and review by the customer <br >
+menu_item = a list of menus available in the restaurant <br >
+listed_in(type) = type of meal <br >
+listed_in(city) = the area in which the restaurant is listed<br >
