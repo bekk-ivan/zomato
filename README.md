@@ -10,7 +10,7 @@ Data taken from the website https://www.zomato.com/india
 Data Dictionary
 url = the url of the restaurant in the zomato website \n
 address = the address of the restaurant in Bengalore \n
-name = the name of the restaurant
+name = the name of the restaurant \n
 online_order = whether online ordering is available for this restaurant or not
 book_table = option to book a table available or not
 rate = the overall rating of the restaurant out of 5
