@@ -8,8 +8,8 @@ Goal:
 Data taken from the website https://www.zomato.com/india
 
 Data Dictionary
-url = the url of the restaurant in the zomato website
-address = the address of the restaurant in Bengalore
+url = the url of the restaurant in the zomato website \n
+address = the address of the restaurant in Bengalore \n
 name = the name of the restaurant
 online_order = whether online ordering is available for this restaurant or not
 book_table = option to book a table available or not
