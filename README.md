@@ -7,6 +7,8 @@ Goal:
 
 Data taken from the website https://www.zomato.com/india
 
+![Hangman](https://user-images.githubusercontent.com/68350145/224948448-6be47aa0-542f-444e-8406-fe12f2c915db.jpg)
+
 Data Dictionary <br >
 url = the url of the restaurant in the zomato website <br >
 address = the address of the restaurant in Bengalore <br >
