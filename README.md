@@ -7,6 +7,7 @@ Goal:
 
 Data taken from the website https://www.zomato.com/india
 
+Example:
 ![Hangman](https://user-images.githubusercontent.com/68350145/224948448-6be47aa0-542f-444e-8406-fe12f2c915db.jpg)
 
 Data Dictionary <br >
